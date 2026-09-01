@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hola, soy Luis Machacca
 
-<!--
-**luidmachacca/luidmachacca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Web | TI | Automatización
 
-Here are some ideas to get you started:
+Me interesa el desarrollo de software, infraestructura,
+automatización y ciberseguridad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+- 🌐 Desarrollo aplicaciones y sitios web
+- 🐍 Programación con Python
+- 🐧 Administración y aprendizaje de Linux
+- 🐳 Docker y despliegue de aplicaciones
+- 🔐 Aprendiendo ciberseguridad
+- ⚙️ Interesado en automatización y DevOps
+
+## 🛠️ Tecnologías
+
+### Desarrollo
+HTML | CSS | JavaScript | PHP | Python | C#
+
+### Web
+WordPress | Elementor | Bootstrap
+
+### Bases de datos
+MySQL | PostgreSQL
+
+### Infraestructura
+Linux | Docker | Git | GitHub
+
+### Diseño
+Figma | Illustrator | Photoshop
+
+## 📂 Proyectos destacados
+
+### 🎮 Juego del Ahorcado
+Juego desarrollado con HTML, CSS y JavaScript.
+
+### 🔐 Encriptador de Texto
+Aplicación web para cifrar y descifrar texto.
+
+### 🌐 Lightweight WordPress Theme
+Tema WordPress desarrollado desde cero.
+
+## 📚 Actualmente aprendiendo
+
+- Linux
+- Redes
+- Docker
+- Cloud
+- Automatización
+- Ciberseguridad
+- DevOps
+
+## 📫 Contacto
+
+LinkedIn | GitHub | Portafolio
