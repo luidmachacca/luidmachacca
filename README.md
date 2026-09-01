@@ -54,21 +54,6 @@ Actualmente estoy desarrollando proyectos prácticos para fortalecer mis habilid
 </p>
 
 ---
-
-## 📂 Featured Projects
-
-### 🎮 Hangman Game
-
-Interactive web game developed with **HTML, CSS and JavaScript**, focused on DOM manipulation, application logic and user interaction.
-
-### 🔐 Text Encryptor
-
-Web application for **encrypting and decrypting text**, built with HTML, CSS and JavaScript.
-
-### 🌐 Lightweight WordPress Theme
-
-Custom **WordPress theme developed from scratch**, focused on understanding WordPress theme architecture, templates and customization.
-
 ---
 
 ## 📚 Currently Exploring
