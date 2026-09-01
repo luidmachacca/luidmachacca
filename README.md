@@ -55,3 +55,29 @@ Tema WordPress desarrollado desde cero.
 ## 📫 Contacto
 
 LinkedIn | GitHub | Portafolio
+
+
+
+<h2>🛠️ Technical Ecosystem</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cs" />
+</p>
+
+### Web & CMS
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,bootstrap" />
+</p>
+
+### Infrastructure & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,gcp" />
+</p>
+
+### Design
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+</p>
