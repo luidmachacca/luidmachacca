@@ -1,83 +1,102 @@
 # 👋 Hola, soy Luis Machacca
 
-💻 Desarrollador Web | TI | Automatización
+💻 **Web Developer | IT | Automation**
 
-Me interesa el desarrollo de software, infraestructura,
-automatización y ciberseguridad.
+Me interesa construir soluciones tecnológicas combinando **desarrollo web, infraestructura, automatización y ciberseguridad**.
+
+Actualmente estoy desarrollando proyectos prácticos para fortalecer mis habilidades en **software development, Linux, cloud, DevOps y cybersecurity**.
+
+---
 
 ## 🚀 Sobre mí
 
-- 🌐 Desarrollo aplicaciones y sitios web
-- 🐍 Programación con Python
-- 🐧 Administración y aprendizaje de Linux
-- 🐳 Docker y despliegue de aplicaciones
-- 🔐 Aprendiendo ciberseguridad
-- ⚙️ Interesado en automatización y DevOps
+* 🌐 Desarrollo sitios y aplicaciones web
+* 🐍 Desarrollo con **Python** y otros lenguajes
+* 🐧 Trabajo con **Linux y administración de sistemas**
+* 🐳 Contenedorización y despliegue con **Docker**
+* ⚙️ Automatización de tareas y procesos
+* ☁️ Explorando **Cloud & DevOps**
+* 🔐 Desarrollando conocimientos en **Cybersecurity**
+* 🔧 Uso **Git/GitHub** para control de versiones y proyectos
 
-## 🛠️ Tecnologías
+---
 
-### Desarrollo
-HTML | CSS | JavaScript | PHP | Python | C#
+## 🛠️ Technical Ecosystem
 
-### Web
-WordPress | Elementor | Bootstrap
-
-### Bases de datos
-MySQL | PostgreSQL
-
-### Infraestructura
-Linux | Docker | Git | GitHub
-
-### Diseño
-Figma | Illustrator | Photoshop
-
-## 📂 Proyectos destacados
-
-### 🎮 Juego del Ahorcado
-Juego desarrollado con HTML, CSS y JavaScript.
-
-### 🔐 Encriptador de Texto
-Aplicación web para cifrar y descifrar texto.
-
-### 🌐 Lightweight WordPress Theme
-Tema WordPress desarrollado desde cero.
-
-## 📚 Actualmente aprendiendo
-
-- Linux
-- Redes
-- Docker
-- Cloud
-- Automatización
-- Ciberseguridad
-- DevOps
-
-## 📫 Contacto
-
-LinkedIn | GitHub | Portafolio
-
-
-
-<h2>🛠️ Technical Ecosystem</h2>
+### 💻 Software Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cs" />
 </p>
 
-### Web & CMS
+### 🌐 Web & CMS
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=wordpress,bootstrap" />
 </p>
 
-### Infrastructure & Tools
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### ☁️ Infrastructure, Cloud & DevOps
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,gcp" />
 </p>
 
-### Design
+### 🎨 Design & Prototyping
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 </p>
+
+---
+
+## 📂 Featured Projects
+
+### 🎮 Hangman Game
+
+Interactive web game developed with **HTML, CSS and JavaScript**, focused on DOM manipulation, application logic and user interaction.
+
+### 🔐 Text Encryptor
+
+Web application for **encrypting and decrypting text**, built with HTML, CSS and JavaScript.
+
+### 🌐 Lightweight WordPress Theme
+
+Custom **WordPress theme developed from scratch**, focused on understanding WordPress theme architecture, templates and customization.
+
+---
+
+## 📚 Currently Exploring
+
+```text
+Linux
+Networking
+Docker
+Cloud
+Automation
+DevOps
+Cybersecurity
+```
+
+My goal is to progressively combine these areas into **real-world projects involving software, infrastructure and automation**.
+
+---
+
+## 🎯 What I'm Building Toward
+
+**Web Development → IT Infrastructure → Automation → Cloud → DevOps → Cybersecurity**
+
+I am interested in understanding not only how to build applications, but also **how they are deployed, automated, monitored and secured**.
+
+---
+
+## 📫 Connect With Me
+
+🔗 **LinkedIn**
+💻 **GitHub**
+🌐 **Portfolio**
